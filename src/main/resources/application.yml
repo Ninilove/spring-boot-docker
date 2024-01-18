@@ -1,4 +1,4 @@
-spring:
+spring:nnnn
   data:
     mongodb:
       host: ${MONGO_DB_HOSTNAME}
