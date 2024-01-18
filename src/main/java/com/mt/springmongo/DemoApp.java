@@ -1,4 +1,4 @@
-package com.mt.springmongo;
+package com.mt.springmongo; nnnnn
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
