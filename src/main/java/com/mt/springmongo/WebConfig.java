@@ -1,4 +1,4 @@
-package com.mt.springmongo;nnnn
+package com.mt.springmongo;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry;
