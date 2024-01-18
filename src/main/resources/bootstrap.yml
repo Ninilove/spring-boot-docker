@@ -1,4 +1,4 @@
-spring:nnnn
+spring:
   application:
     name: spring-boot-app
 server:
