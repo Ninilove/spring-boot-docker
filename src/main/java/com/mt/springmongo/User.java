@@ -1,4 +1,4 @@
-package com.mt.springmongo;nnn
+package com.mt.springmongo;
 
 import java.io.Serializable;
 import java.util.Objects;
