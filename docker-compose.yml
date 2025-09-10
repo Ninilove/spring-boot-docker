@@ -9,7 +9,7 @@ services:
     - MONGO_DB_USERNAME=devdb
     - MONGO_DB_PASSWORD=devdb123
     ports:
-      - 8080:8080
+      - "8080"
     working_dir: /opt/app
     depends_on:
       - mongo
@@ -43,4 +43,5 @@ volumes:
 networks:
   aws-network:
     external: true
+
 
